@@ -1,8 +1,8 @@
 # Watson-AIOps-install-pre-requisite
 
-OpenShift cluster is pre-req for WAIOps install. It would be good, if it is ready before our Monday workshop. 
+OpenShift cluster is pre-req for WAIOps install. 
  
-We also need IKS and Humio VM for Demo Setup. But they may not be required for Monday.
+IKS and Humio VM are also needed for Demo Setup.
  
 The configuration details for the above asks are listed here.
 https://github.com/GandhiCloudLab/waiops320/tree/main/install/01-install-roks-iks-humio
